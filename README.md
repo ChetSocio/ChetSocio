@@ -1,12 +1,11 @@
 
 ## Hi There!
 
-I am **Chetraj Gautam** , a full stack developer from Nepal currently focusing on *web development field*. 
+I am **Chet Raj Gautam** , Founder & CEO of BatchNepal Consultancy. I own this agency and started it as a hobby. We love creating solutions that mitigate problems of devs and companies. You can see us contributing to open source projects or owning many open source projects ourself. We love to grow together as an ecosystem. My agency offers software development, consulting and accounting services. If you are a startup, you can enjoy BatchNepal For Startups Program. Proudly we have partnership with reputed companies like AWS, Jetbrains, DigitalOcean, Zendesk and 8 others that makes it possible for us to grow rapidly in this ever changing ecosystem.    
 
 
-
-## 🚀 My Projects
-You may find my public projects and use it without credits. I mostly do private projects and company projects. Still I will keep posting useful public projects for beginner learners 
+## 🚀 Services We Offer 
+We provide free consulting for our new clients and an attractive dashboard where our clients can request, create and manage projects, buy and manage cloud servers, billing, with their teams. You get a whole marketplace of trending themes, one click deployments, pre-made templates, ready to use apis, one click databases and many more. Everything is centralized for our clients on single dashboard. An experience you will never get with other agencies. Yes you can even view live progress of projects and talk to support directly from dashboard. Support is very responsive and we offer 3 phase services feature. 
 
 
 ## 🛠 Skills 
