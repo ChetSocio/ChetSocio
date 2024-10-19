@@ -30,10 +30,12 @@ We provide free consulting for our new clients and an attractive dashboard where
 
 ## Contributing
 
-I love contributing to projects in my free time. So hoping to learn enough to contribute any day
-https://img.shields.io/npm/dm/
+I love contributing to projects in my free time. So hoping to learn enough to contribute any day.
 
-[![npm downloads](https://img.shields.io/npm/dm/easy-magnify.svg)]
+
+## Easy Magnify 
+[![NPM Downloads](https://img.shields.io/npm/dm/easy-magnify.svg)](https://easy-magnify.batchnepal.com)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://batchnepal.com)
