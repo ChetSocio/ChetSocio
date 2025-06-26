@@ -1,12 +1,26 @@
 
 ## Hi There!
 
-I am **Chet Raj Gautam** , Founder & CEO of BatchNepal Consultancy. I own this agency and started it as a hobby. We love creating solutions that mitigate problems of devs and companies. You can see us contributing to open source projects or owning many open source projects ourself. We love to grow together as an ecosystem. My agency offers software development, consulting and accounting services. If you are a startup, you can enjoy BatchNepal For Startups Program. Proudly we have partnership with reputed companies like AWS, Jetbrains, DigitalOcean, Zendesk and 8 others that makes it possible for us to grow rapidly in this ever changing ecosystem.    
+**Chet Raj Gautam**, as the Founder and CEO of BatchNepal Consultancy, leads a team of forward-thinking experts dedicated to architecting transformative solutions for the modern enterprise. What began as a passion for problem-solving has evolved into a premier technology and consulting partner, empowering leading companies to navigate their most complex challenges.
 
+Our commitment to innovation is demonstrated through our significant contributions to and leadership of open-source projects, fostering a collaborative and ever-advancing technology ecosystem. At BatchNepal, we believe in a symbiotic growth model, where our success is intrinsically linked to the value we create for our clients and the broader developer community.
 
-## 🚀 Services We Offer 
-We provide free consulting for our new clients and an attractive dashboard where our clients can request, create and manage projects, buy and manage cloud servers, billing, with their teams. You get a whole marketplace of trending themes, one click deployments, pre-made templates, ready to use apis, one click databases and many more. Everything is centralized for our clients on single dashboard. An experience you will never get with other agencies. Yes you can even view live progress of projects and talk to support directly from dashboard. Support is very responsive and we offer 3 phase services feature. 
+We have cultivated strategic alliances with global technology leaders, including AWS, Jetbrains, DigitalOcean, Zendesk, and many other distinguished partners. These partnerships amplify our capabilities, enabling us to deliver cutting-edge solutions and drive rapid growth in a constantly evolving digital landscape.
 
+---
+
+## 🚀 Our Services
+
+At BatchNepal Consultancy, we deliver a comprehensive suite of services engineered to drive efficiency, innovation, and strategic growth for our clients. We partner with you to transform your operations and technology landscape, ensuring you are agile, resilient, and positioned for market leadership.
+
+### Software Development & Engineering
+Our bespoke software development services are at the heart of our offerings. We specialize in building robust, scalable, and secure enterprise-grade applications that are tailored to your unique business objectives. From initial concept to deployment and beyond, we leverage modern methodologies and best-in-class technologies to deliver solutions that provide a distinct competitive advantage.
+
+### Strategic Technology Consulting
+In a landscape of constant technological disruption, our consulting services provide the clarity and direction needed to make impactful decisions. We work with your leadership to assess your current technology stack, identify opportunities for optimization and innovation, and develop a strategic roadmap for digital transformation. Our expertise spans cloud architecture, data strategy, and process automation, ensuring your technology investments deliver maximum value.
+
+### Digital Marketing & Growth Strategies
+We elevate your brand and accelerate growth through data-driven digital marketing services. Our team designs and executes sophisticated marketing strategies that enhance customer engagement and drive measurable results. From targeted digital campaigns and search engine optimization (SEO) to social media strategy and content marketing, we create powerful omnichannel experiences that resonate with your audience and solidify your market position.
 
 ## 🛠 Skills 
 
@@ -30,14 +44,14 @@ We provide free consulting for our new clients and an attractive dashboard where
 
 ## Contributing
 
-I love contributing to projects in my free time. So hoping to learn enough to contribute any day.
+I love contributing to open source projects in my free time. My open source projects are loved and used by thousands of businesses every month.
 
 
-## Easy Magnify 
+## Easy Magnify - Open Source Project
 [![NPM Downloads](https://img.shields.io/npm/dm/easy-magnify.svg)](https://easy-magnify.batchnepal.com)
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://batchnepal.com)
+[![phone](https://img.shields.io/badge/contact_us-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://batchnepal.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/batchnepal)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/batchnepal)
